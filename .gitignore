@@ -1,0 +1,23 @@
+# Eclipse IDE files
+.settings/
+.project
+.classpath
+
+# Compiled files
+bin/
+*.class
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE specific
+*.launch
