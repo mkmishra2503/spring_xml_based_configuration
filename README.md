@@ -18,27 +18,28 @@ This repository is useful for beginners who want to learn **Spring XML Configura
 
 ## 📂 Project Structure
 
-spring-xml-based-configuration/                                                                                                                                                                   
-│                                                                                                                                                                                                  
-├── .settings/                  # Eclipse IDE settings                                                                                                                                         
-├── bin/                        # Compiled .class files                                                                                                                                                       
-├── screenshots/                # Output screenshots                                                                                                                                                        
-│   └── output.png                                                                                                                                                                                     
+spring-xml-based-configuration/
 │
-├── src/                        # Source code                                                                                                                                                               
-│   ├── cs.bean/                # Bean classes                                                                                                                                                            
-│   │   └── Stud.java                                                                                                                                                                                       
-│   │                                                                                                                                                                                                        
-│   ├── cs.config/              # Spring XML configuration                                                                                                                                                  
-│   │   └── app.xml                                                                                                                                                                           
+├── .settings/                  # Eclipse IDE settings
+├── bin/                        # Compiled .class files
+├── screenshots/                # Output screenshots
+│   └── output.png
+│
+├── src/                        # Source code
+│   ├── cs.bean/                # Bean classes
+│   │   └── Stud.java
 │   │
-│   └── cs.main/                # Main class                                                                                                                                                         
-│       └── Springmain.java                                                                                                                                                                    
+│   ├── cs.config/              # Spring XML configuration
+│   │   └── app.xml
+│   │
+│   └── cs.main/                # Main class
+│       └── Springmain.java
 │
-├── .classpath                  # Eclipse classpath file                                                                                                                                            
-├── .project                    # Eclipse project configuration                                                                                                                                              
-├── .gitignore.txt              # Git ignored files                                                                                                                                              
-├── README.md                   # Project documentation                                                                                                                                                  
+├── .classpath                  # Eclipse classpath file
+├── .project                    # Eclipse project configuration
+├── .gitignore.txt              # Git ignored files
+├── README.md                   # Project documentation
+ README.md                   # Project documentation                                                                                                                                                  
 
 ---
 
