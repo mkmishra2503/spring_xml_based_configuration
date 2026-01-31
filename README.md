@@ -37,9 +37,9 @@ spring-xml-based-configuration/
 │
 ├── .classpath                  # Eclipse classpath file
 ├── .project                    # Eclipse project configuration
-├── .gitignore.txt              # Git ignored files
+├── .gitignore                  # Git ignored files
 ├── README.md                   # Project documentation
- README.md                   # Project documentation                                                                                                                                                  
+                                                                                                                                                 
 
 ---
 
@@ -105,7 +105,7 @@ demonstrating dependency injection using XML-based bean configuration.
 
 👤 Author
 
-Mithilesh Kumar Mishra
+Mithilesh Kumar Mishra                                                                                                                                                                   
 Java & Spring Developer (Fresher)
 
 ---
