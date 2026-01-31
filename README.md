@@ -64,11 +64,10 @@ Clone the repository
 git clone <your-github-repository-url>
 
 ```
-2. Open Eclipse IDE
-3. Import project:
-File → Import → Existing Projects into Workspace
-4. Add Spring JAR files to Build Path (if not added)
-5. Run the main class as Java Application
+2. Open Eclipse IDE                                                                                                                                                                                    
+3. Import project: File → Import → Existing Projects into Workspace                                                                                                                                   
+4. Add Spring JAR files to Build Path (if not added)                                                                                                                                                      
+5. Run the main class as Java Application                                                                                                                                                                 
 
 ---
 
@@ -86,20 +85,20 @@ demonstrating dependency injection using XML-based bean configuration.
 
 ## 🎯 Learning Objectives
 
-Understand Spring IoC Container
-Learn XML-based bean configuration
-Practice Dependency Injection using XML
-Build a strong foundation for Spring Annotations & Spring Boot
+- Understand Spring IoC Container                                                                                                                                                                          
+- Learn XML-based bean configuration                                                                                                                                                                     
+- Practice Dependency Injection using XML                                                                                                                                                                     
+- Build a strong foundation for Spring Annotations & Spring Boot                                                                                                                                                
 
 ---
 
 ## 🚀 Future Enhancements
 
-Add Annotation-based configuration
-Add Java-based configuration
-Convert project to Maven
-Integrate JDBC
-Create a complete Spring Master Repository
+- Add Annotation-based configuration                                                                                                                                                                         
+- Add Java-based configuration                                                                                                                                                                                 
+- Convert project to Maven                                                                                                                                                                                   
+- Integrate JDBC                                                                                                                                                                                         
+- Create a complete Spring Master Repository                                                                                                                                                                  
 
 ---
 
