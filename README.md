@@ -18,6 +18,7 @@ This repository is useful for beginners who want to learn **Spring XML Configura
 
 ## 📂 Project Structure
 
+```text
 spring-xml-based-configuration/
 │
 ├── .settings/                  # Eclipse IDE settings
@@ -39,6 +40,7 @@ spring-xml-based-configuration/
 ├── .project                    # Eclipse project configuration
 ├── .gitignore                  # Git ignored files
 ├── README.md                   # Project documentation
+```
                                                                                                                                                  
 
 ---
